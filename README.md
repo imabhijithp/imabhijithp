@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I’m a UI/UX designer & developer from India. I have been working around 2 year as a digital designer for agencies, startups & freelancing - crafting engaging intuitive enjoyable digital products and user experiences that empower users through beautiful simple interfaces. You can check out some of my projects on Dribbble & Behance, Or if you like, you can send me an Hi! to contact@abhijithp.design 😉
+I’m a UI/UX designer & developer from India. I have been working around 2 year as a digital designer for agencies, startups & freelancing - crafting engaging intuitive enjoyable digital products and user experiences that empower users through beautiful simple interfaces. You can check out some of my projects on Dribbble & Behance, Or if you like, you can send me an Hi! to hello@abhijithp.com 😉
 
 - 😄 Pronouns: He/him
 - 🏠 From : India 🤍🧡💚
