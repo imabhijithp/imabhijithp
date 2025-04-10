@@ -1,14 +1,12 @@
 <div align="center">
-  <h2><b>Designer | Developer | Wanderlust</b></h2>
+  <h2><b>Designer | Developer | Problem Solver</b></h2>
 </div>
 
 ## Hey there 👋
 
-I'm **Abhijith P**, a UI/UX designer and frontend developer from Kochi, India. With over 2 years of experience designing for agencies, startups, and freelance projects, I specialize in creating intuitive, engaging, and user-centered digital experiences that empower people through clean, simple design.
+I'm **Abhijith P**, a UI/UX Designer from Kochi, India, with 5+ years of experience crafting engaging and intuitive digital experiences across mobile apps, websites, POS systems, AR/VR interfaces, and 3D web-based GUIs.
 
-I love building products that solve real problems and make users smile. Whether it's websites, mobile apps, or custom UI systems, I bring together form and function with a dash of wanderlust.
-
-You’ll find my latest work on [Dribbble](https://dribbble.com/imabhijithp) and [Behance](https://www.behance.net/imabhijithp), or feel free to drop a "hi" at hello@abhijithp.com 😉
+I specialize in transforming complex business requirements into elegant, user-centered designs that balance functionality with visual appeal. I’m passionate about creating solutions that empower users while aligning with product goals — from wireframes and prototypes to final interfaces. My background also includes front-end development knowledge, ensuring smooth design-to-dev handoff and hands-on UI testing post-launch.
 
 - 👨‍💻 Pronouns: He/Him  
 - 🇮🇳 Based in: Kochi, India  
@@ -23,15 +21,15 @@ You’ll find my latest work on [Dribbble](https://dribbble.com/imabhijithp) and
 
 **Comfortable With:**
 
-| HTML | CSS | Bootstrap | WordPress |
+| HTML | CSS | Bootstrap | Tailwind CSS |
 |---|---|---|---|
-| <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/html.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/css.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/bootstrap.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/wordpress.png" width="24"> |
+| <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/html.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/css.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/bootstrap.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/tailwind.png" width="24"> |
 
 **Currently Exploring:**
 
-| JavaScript | React | Angular | Vue |
+| JavaScript | React | Vue | Angular |
 |---|---|---|---|
-| <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/js.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/react.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/angular.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/vue.png" width="24"> |
+| <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/js.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/react.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/vue.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/angular.png" width="24"> |
 
 ---
 
