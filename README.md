@@ -45,7 +45,7 @@ You’ll find my latest work on [Dribbble](https://dribbble.com/imabhijithp) and
 
 #### ☁️ OS & Platforms
 
-| Windows | Ubuntu | Linux | macOS | Raspberry Pi | Debian | Docker | GitHub | GitLab | AWS | Azure |
+| Windows | Ubuntu | macOS |
 |---|---|---|---|---|---|---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/windows.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/ubuntu.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/apple.png" width="24"> |
 
