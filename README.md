@@ -47,7 +47,7 @@ You’ll find my latest work on [Dribbble](https://dribbble.com/imabhijithp) and
 
 | Windows | Ubuntu | Linux | macOS | Raspberry Pi | Debian | Docker | GitHub | GitLab | AWS | Azure |
 |---|---|---|---|---|---|---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/windows.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/ubuntu.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/linux.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/apple.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/rpi.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/debian.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/docker.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/github.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/gitlab.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/aws.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/azure.png" width="24"> |
+| <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/windows.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/ubuntu.png" width="24"> | <img src="https://raw.githubusercontent.com/imabhijithp/imabhijithp/master/ico/apple.png" width="24"> |
 
 ---
 
